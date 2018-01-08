@@ -12,6 +12,7 @@ This package will be on PyPi *soon*™
 `graph.draw_axes(y_title='Y1', y2_title='Y2') # while not necessary it is good practice, can prevent formatting issues`
 
 `graph.bar('column1') # plot column on left (default) axis`
+
 `graph.line('column2', 2) # plot column on secondary y axis`
 
 `graph.plot() # generate plot` 
