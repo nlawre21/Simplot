@@ -26,8 +26,7 @@ class Simplot(object):
         self.x = df.index
 
         # used to declare any default arguments to axes dictionaries
-        #self.base_axes_arg = dict(autorange=True, zeroline=False, autotick=True, scaleanchor="x")
-        self.base_axes_arg = {}
+        self.base_axes_arg = dict(autorange=True, zeroline=False, autotick=True, scaleanchor="x")
 
         # axes
         self.x_data = {}
