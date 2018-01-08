@@ -18,3 +18,5 @@ This package will be on PyPi *soon*™
 `graph.line('column2', 2) # plot column on secondary y axis`
 
 `graph.plot()` 
+
+
