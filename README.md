@@ -19,4 +19,4 @@ This package will be on PyPi *soon*™
 
 `graph.plot()` 
 
-
+![img](https://github.com/nlawre21/Simplot/blob/add_to_readme/readme_example.png)
